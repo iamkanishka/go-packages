@@ -22,6 +22,8 @@ This repository acts as a **central discovery hub** for all available clients.
 | OBIE       | https://pkg.go.dev/github.com/iamkanishka/obie-client-go       |
 | SaltEdge   | https://pkg.go.dev/github.com/iamkanishka/saltedge-client-go   |
 | Plaid      | https://pkg.go.dev/github.com/iamkanishka/plaid-client-go      |
+| Token.io   | https://pkg.go.dev/github.com/iamkanishka/tokenio-client-go    |
+
 
 ---
 
