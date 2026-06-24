@@ -34,7 +34,7 @@ This repository acts as a **central discovery hub** for all available clients.
 | Clearbank     | https://pkg.go.dev/github.com/iamkanishka/clearbank-go            |
 | Wise          | https://pkg.go.dev/github.com/iamkanishka/wise-client-go          |
 | CurrencyCloud | https://pkg.go.dev/github.com/iamkanishka/currencycloud-client-go |
-| Checkout      | https://pkg.go.dev/github.com/iamkanishka/Checkout-go             |
+| Checkout      | https://pkg.go.dev/github.com/iamkanishka/checkout-go             |
 | Adyen         | https://pkg.go.dev/github.com/iamkanishka/adyen-go                |
 
 ---
