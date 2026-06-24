@@ -15,7 +15,7 @@ This repository acts as a **central discovery hub** for all available clients.
 | Provider   | Go Pckage URL                                                  |
 | ---------- | -------------------------------------------------------------- |
 | GoCardless | https://pkg.go.dev/github.com/iamkanishka/gocardless-client-go |
-| Tink       | https://pkg.go.dev/github.com/iamkanishka/tink-client-go       |
+| Tink       | https://pkg.go.dev/github.com/iamkanishka/tink-go              |
 | Nordigen   | https://pkg.go.dev/github.com/iamkanishka/nordigen-client-go   |
 | TrueLayer  | https://pkg.go.dev/github.com/iamkanishka/truelayer-client-go  |
 | Setu       | https://pkg.go.dev/github.com/iamkanishka/setu-client-go       |
@@ -23,7 +23,21 @@ This repository acts as a **central discovery hub** for all available clients.
 | SaltEdge   | https://pkg.go.dev/github.com/iamkanishka/saltedge-client-go   |
 | Plaid      | https://pkg.go.dev/github.com/iamkanishka/plaid-client-go      |
 | Token.io   | https://pkg.go.dev/github.com/iamkanishka/tokenio-client-go    |
+| Yapily     | https://pkg.go.dev/github.com/iamkanishka/yapily-client-go     |
 
+| Gocardless | https://pkg.go.dev/github.com/iamkanishka/gocardless-client-go |
+| Marqueta | https://pkg.go.dev/github.com/iamkanishka/nordigen-client-go |
+| Mercury | https://pkg.go.dev/github.com/iamkanishka/mercury-go |
+| Railsr | https://pkg.go.dev/github.com/iamkanishka/railsr-go |
+| Rapyd | https://pkg.go.dev/github.com/iamkanishka/rapyd-go |
+| Revolut | https://pkg.go.dev/github.com/iamkanishka/revolut-go |
+| Codat | https://pkg.go.dev/github.com/iamkanishka/codat-go |
+| Clearbank | https://pkg.go.dev/github.com/iamkanishka/clearbank-go |
+
+| Wise | https://pkg.go.dev/github.com/iamkanishka/wise-client-go |
+| CurrencyCloud | https://pkg.go.dev/github.com/iamkanishka/currencycloud-client-go |
+| Checkout | https://pkg.go.dev/github.com/iamkanishka/Checkout-go |
+| Adyen | https://pkg.go.dev/github.com/iamkanishka/adyen-go |
 
 ---
 
